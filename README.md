@@ -1,4 +1,4 @@
-# X-UI
+## X-UI
 简体中文|[ENGLISH](./README_EN.md)  
 
 > 声明：该项目仅供个人学习、交流，请遵守当地法律法规,勿用于非法用途;请勿用于生产环境  
@@ -219,3 +219,4 @@ VPS推送可关注电报[频道](https://t.me/VpsReStockAlert)
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/FranzKafkaYu/x-ui.svg)](https://starchart.cc/FranzKafkaYu/x-ui)
+
